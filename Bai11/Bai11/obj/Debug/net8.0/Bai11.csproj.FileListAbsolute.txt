@@ -12,3 +12,4 @@ C:\LTC#\Bai11\Bai11\obj\Debug\net8.0\refint\Bai11.dll
 C:\LTC#\Bai11\Bai11\obj\Debug\net8.0\Bai11.pdb
 C:\LTC#\Bai11\Bai11\obj\Debug\net8.0\Bai11.genruntimeconfig.cache
 C:\LTC#\Bai11\Bai11\obj\Debug\net8.0\ref\Bai11.dll
+C:\LTC#\Bai11\Bai11\obj\Debug\net8.0\Bai11.sourcelink.json
