@@ -1,0 +1,15 @@
+C:\LTC#\Bai12\Bai12\bin\Debug\net8.0\Bai12.exe
+C:\LTC#\Bai12\Bai12\bin\Debug\net8.0\Bai12.deps.json
+C:\LTC#\Bai12\Bai12\bin\Debug\net8.0\Bai12.runtimeconfig.json
+C:\LTC#\Bai12\Bai12\bin\Debug\net8.0\Bai12.dll
+C:\LTC#\Bai12\Bai12\bin\Debug\net8.0\Bai12.pdb
+C:\LTC#\Bai12\Bai12\obj\Debug\net8.0\Bai12.GeneratedMSBuildEditorConfig.editorconfig
+C:\LTC#\Bai12\Bai12\obj\Debug\net8.0\Bai12.AssemblyInfoInputs.cache
+C:\LTC#\Bai12\Bai12\obj\Debug\net8.0\Bai12.AssemblyInfo.cs
+C:\LTC#\Bai12\Bai12\obj\Debug\net8.0\Bai12.csproj.CoreCompileInputs.cache
+C:\LTC#\Bai12\Bai12\obj\Debug\net8.0\Bai12.sourcelink.json
+C:\LTC#\Bai12\Bai12\obj\Debug\net8.0\Bai12.dll
+C:\LTC#\Bai12\Bai12\obj\Debug\net8.0\refint\Bai12.dll
+C:\LTC#\Bai12\Bai12\obj\Debug\net8.0\Bai12.pdb
+C:\LTC#\Bai12\Bai12\obj\Debug\net8.0\Bai12.genruntimeconfig.cache
+C:\LTC#\Bai12\Bai12\obj\Debug\net8.0\ref\Bai12.dll
