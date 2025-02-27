@@ -8,47 +8,47 @@
 
 internal class Program
 {
-    static double TinhGiaMonAn(MonAn monAn, int soLuong = 1)
+    static double TinhGiaMonAn(MonAn monAn_234, int soLuong_234 = 1)
     {
-        double giaTien = 0;
-        switch (monAn)
+        double giaTien_234 = 0;
+        switch (monAn_234)
         {
             case MonAn.Pho:
-                giaTien = 40000; break;
+                giaTien_234 = 40000; break;
             case MonAn.BunBo:
-                giaTien = 45000; break;
+                giaTien_234 = 45000; break;
             case MonAn.ComTam:
-                giaTien = 50000; break;
+                giaTien_234 = 50000; break;
             case MonAn.HuTieu:
-                giaTien = 35000; break;
+                giaTien_234 = 35000; break;
         }
-        return giaTien * soLuong;
+        return giaTien_234 * soLuong_234;
     }
-    private static void Main(string[] args)
+    private static void Main(string[] args_234)
     {
-        Console.WriteLine("Chọn món ăn:");
-        Console.WriteLine("1. Phở\n2. Bún Bò\n3. Cơm Tấm\n4. Hủ Tiếu");
-        if (int.TryParse(Console.ReadLine(), out int luaChon) && Enum.IsDefined(typeof(MonAn), luaChon))
+        Console.WriteLine("Chon mon an:");
+        Console.WriteLine("1. Pho\n2. Bun Bo\n3. Com Tam\n4. Hu Tieu");
+        if (int.TryParse(Console.ReadLine(), out int luaChon_234) && Enum.IsDefined(typeof(MonAn), luaChon_234))
         {
-            MonAn monAnDuocChon = (MonAn)luaChon;
-            Console.Write("Nhập số lượng (Nhấn Enter để mặc định là 1): ");
-            string inputSoLuong = Console.ReadLine();
-            double tongTien;
-            if (string.IsNullOrWhiteSpace(inputSoLuong)) 
+            MonAn monAnDuocChon_234 = (MonAn)luaChon_234;
+            Console.Write("Nhap so luong (Nhan Enter de mac dinh la 1): ");
+            string inputSoLuong_234 = Console.ReadLine();
+            double tongTien_234;
+            if (string.IsNullOrWhiteSpace(inputSoLuong_234))
             {
-                tongTien = TinhGiaMonAn(monAnDuocChon);
+                tongTien_234 = TinhGiaMonAn(monAnDuocChon_234);
             }
             else
             {
-                int soLuong = int.Parse(inputSoLuong);
-                tongTien = TinhGiaMonAn(monAnDuocChon, soLuong);
+                int soLuong_234 = int.Parse(inputSoLuong_234);
+                tongTien_234 = TinhGiaMonAn(monAnDuocChon_234, soLuong_234);
             }
 
-            Console.WriteLine($"\nMón {monAnDuocChon} - Tổng tiền: {tongTien} VND");
+            Console.WriteLine($"\nMon {monAnDuocChon_234} - Tong tien: {tongTien_234} VND");
         }
         else
         {
-            Console.WriteLine("Lựa chọn không hợp lệ!");
+            Console.WriteLine("Lua chon khong hop le!");
         }
     }
 }
