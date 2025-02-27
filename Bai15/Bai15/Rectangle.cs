@@ -8,22 +8,22 @@ namespace Bai15
 {
     public class Rectangle
     {
-        public Point UpperLeft { get; set; }
-        public Point BottomRight { get; set; }
+        public Point UpperLeft_234 { get; set; }
+        public Point BottomRight_234 { get; set; }
 
-        public Rectangle(Point upperLeft, Point bottomRight)
+        public Rectangle(Point upperLeft_234, Point bottomRight_234)
         {
-            UpperLeft = upperLeft;
-            BottomRight = bottomRight;
+            UpperLeft_234 = upperLeft_234;
+            BottomRight_234 = bottomRight_234;
         }
 
         public void DisplayStatus()
         {
             Console.WriteLine("Rectangle Status:");
             Console.Write("Upper Left: ");
-            UpperLeft.DisplayStatus();
+            UpperLeft_234.DisplayStatus();
             Console.Write("Bottom Right: ");
-            BottomRight.DisplayStatus();
+            BottomRight_234.DisplayStatus();
         }
     }
 }

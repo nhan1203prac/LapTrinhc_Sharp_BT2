@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{02636E5B-3620-4DAF-B29C-0BCF9660BD79}|Bai15\\Bai15.csproj|c:\\ltc#\\bai15\\bai15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02636E5B-3620-4DAF-B29C-0BCF9660BD79}|Bai15\\Bai15.csproj|solutionrelative:bai15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02636E5B-3620-4DAF-B29C-0BCF9660BD79}|Bai15\\Bai15.csproj|c:\\ltc#\\bai15\\bai15\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02636E5B-3620-4DAF-B29C-0BCF9660BD79}|Bai15\\Bai15.csproj|solutionrelative:bai15\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02636E5B-3620-4DAF-B29C-0BCF9660BD79}|Bai15\\Bai15.csproj|c:\\ltc#\\bai15\\bai15\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02636E5B-3620-4DAF-B29C-0BCF9660BD79}|Bai15\\Bai15.csproj|solutionrelative:bai15\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02636E5B-3620-4DAF-B29C-0BCF9660BD79}|Bai15\\Bai15.csproj|c:\\ltc#\\bai15\\bai15\\pointcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02636E5B-3620-4DAF-B29C-0BCF9660BD79}|Bai15\\Bai15.csproj|solutionrelative:bai15\\pointcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\LTC#\\Bai15\\Bai15\\Point.cs",
+              "RelativeDocumentMoniker": "Bai15\\Point.cs",
+              "ToolTip": "C:\\LTC#\\Bai15\\Bai15\\Point.cs",
+              "RelativeToolTip": "Bai15\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:42:20.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\LTC#\\Bai15\\Bai15\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Bai15\\Rectangle.cs",
+              "ToolTip": "C:\\LTC#\\Bai15\\Bai15\\Rectangle.cs",
+              "RelativeToolTip": "Bai15\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:40:38.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PointColor.cs",
+              "DocumentMoniker": "C:\\LTC#\\Bai15\\Bai15\\PointColor.cs",
+              "RelativeDocumentMoniker": "Bai15\\PointColor.cs",
+              "ToolTip": "C:\\LTC#\\Bai15\\Bai15\\PointColor.cs",
+              "RelativeToolTip": "Bai15\\PointColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:39:06.91Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "Bai15\\Program.cs",
               "ToolTip": "C:\\LTC#\\Bai15\\Bai15\\Program.cs",
               "RelativeToolTip": "Bai15\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T12:18:43.902Z",
               "EditorCaption": ""
